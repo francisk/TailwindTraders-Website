@@ -5,7 +5,6 @@ import List from './list/listContainer';
 import SuggestedProductsList from './suggestedproductslist/suggestedProductsList';
 import Profile from './profile/profileContainer';
 import ShoppingCart from './shoppingcart/shoppingCart'
-import Customize from './customize/customize'
 
 
 export {
@@ -15,6 +14,5 @@ export {
     List,
     SuggestedProductsList,
     Profile,
-    ShoppingCart,
-    Customize
+    ShoppingCart
 };

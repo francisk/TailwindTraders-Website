@@ -19,7 +19,7 @@ const Recommended = ({ t, recommendedProductsData, loggedIn }) => {
                 <CouponsImg />
                 <span>{t("shared.seeMyCoupons")}</span>
             </Link>}
-
+            <div>Customize your garden</div>
             <div className="grid__wrapper">
                 <h2 className="grid__heading">{t("home.recommended.recommended")}</h2>
                 <div className="grid">
