@@ -15,7 +15,7 @@ class HomeContainer extends Component {
         this.state = {
             recommendedProducts: [
                 {
-                    title: "Power Tools",
+                    title: "免费体验",
                     imageUrl: Powertools,
                     cssClass: "grid__item-a",
                     url: "/list/diytools"
